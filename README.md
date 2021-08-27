@@ -10,7 +10,7 @@
 
 ### Results
 
-#### Almost all of the stocks we examined in Steve's workbook had a positive percent return in 2017. The only stock that had a negative percent return in 2017 was "TERP". But in 2018, almost all of the stocks had a negative percent return. There were 2 stocks, "ENPH" and "RUN", that had positive returns in 2018. So the stock performance was better in 2017.
+#### Almost all of the stocks we examined in Steve's workbook had a positive percent return in 2017. The only stock that had a negative percent return in 2017 was "TERP". But in 2018, almost all of the stocks had a negative percent return. There were 2 stocks, "ENPH" and "RUN", that had positive returns in 2018. Overall, the majority of the stocks had better performance in 2017 than 2018.
 
 <img width="352" alt="All Stocks Analysis 2017" src="https://user-images.githubusercontent.com/88804543/131187934-cc2bd676-6af6-4a6d-bfdd-507971e014e2.png">
 <img width="349" alt="All Stocks Analysis 2018" src="https://user-images.githubusercontent.com/88804543/131187939-dc51e216-1bb9-46d7-b944-23368ba3f5ab.png">
