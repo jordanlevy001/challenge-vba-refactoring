@@ -29,6 +29,6 @@
 
 ### Summary
 
-#### Refactoring code is an important part of the coding process. Usually the first draft of code can be streamlined and improved upon. There are many advantages to refactoring code; these advantages include improving the logic, organization, and readability of the code. Also, removing bugs and vulnerabilities in the code. On the other hand, there are also disadvantages to refactoring code. Some disadvantages include that refactoring code can be time consuming or increase the chance of a mistake being made as the code is worked over multiple times.
+#### Refactoring code is an important part of the coding process. Usually the first draft of code can be streamlined and improved upon. There are many advantages to refactoring code; these advantages include improving the logic, organization, and readability of the code. Also, removing bugs and vulnerabilities in the code. On the other hand, there are also disadvantages to refactoring code. Some disadvantages include that refactoring code can be time consuming or increase the chance of mistakes as the code is worked over multiple times.
 
 #### For this project, refactoring the code improved the organization, readability, and run time. The refactored code will also help Steve in the future, when he needs to analyze multiple stocks and needs the analysis to run quickly. The disadvantage in this case was refactoring the code was somewhat time consuming.
