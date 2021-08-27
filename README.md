@@ -4,9 +4,11 @@
 
 ## Results Analysis
 
+
 ### Project Overview
 
 #### The purpose of this analysis is to refactor the module 2 solution code. The refactored code should loop through all of the stock data one time to collect information on each stock's total daily volume and the return. Additionally, we will determine the new analysis run time and evaluate how it compared to the run time of the subroutine before the code was refactored.
+
 
 ### Results
 
@@ -19,6 +21,10 @@
 
 <img width="257" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/88804543/131187960-89eeef9e-345c-476c-982b-1b7aeb1cd124.png">
 <img width="254" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/88804543/131187979-ab31be6b-b52c-4213-9f6c-045924a5136b.png">
+
+#### When we refactored the code, we created output arrays for each ticker's volume, starting price, and ending price. This improved our overall logic and allowed us to write the conditional statements more efficiently, utilizing a tickerIndex. 
+
+<img width="672" alt="Output Arrays and Conditionals" src="https://user-images.githubusercontent.com/88804543/131192605-f57d34dc-d786-4ca8-be58-e7f2aad9aba8.png">
 
 
 ### Summary
